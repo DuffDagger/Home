@@ -22,3 +22,8 @@ body {
   max-height: 80%;
   border: 12px solid #000;
 }
+
+
+.centered-image:hover {
+    cursor: pointer;
+}
